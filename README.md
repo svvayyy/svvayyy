@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Will / svvayyy — Build. Play. Repeat. Apps, music, and open source." />
-</p>
-
 ## Hey, I’m Will 👋
 
 I build apps, make music, and follow the occasional “what if?” a little too far.
@@ -25,15 +21,6 @@ I like thoughtful interfaces, useful little details, and software that respects 
     <td><strong><a href="https://github.com/svvayyy/Muxtra">Muxtra</a></strong><br />A workspace for coding agents: separate branches, less stepping on each other’s work.<br /><sub>Developer tools · TypeScript · Public beta</sub></td>
   </tr>
 </table>
-
-Also: **[Nudge](https://svvayyy.github.io/nudge/)**, a spin-to-decide productivity app for iPhone.
-
-### A little open source
-
-Recently contributed to **[bg0](https://github.com/opencoredev/bg0)**, a browser-only background remover:
-
-- [Made the result toolbar work better on narrow screens.](https://github.com/opencoredev/bg0/pull/17)
-- [Helped bring lower-memory BiRefNet inference to iPhone and iPad.](https://github.com/opencoredev/bg0/pull/19) Tested on my iPhone 13; broader device coverage is still a work in progress.
 
 ### Outside the code
 
