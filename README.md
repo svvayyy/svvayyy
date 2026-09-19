@@ -18,7 +18,7 @@ I like thoughtful interfaces, useful little details, software that respects your
   </tr>
   <tr>
     <td width="82" align="center"><a href="https://github.com/svvayyy/Muxtra"><img src="assets/muxtra.png" width="64" height="64" alt="Muxtra icon" /></a></td>
-    <td><strong><a href="https://github.com/svvayyy/Muxtra">Muxtra</a></strong><br />A workspace for coding agents. It makes separate branches so agent stop stepping on each other's work.<br /><sub>Developer tools · TypeScript · Public beta</sub></td>
+    <td><strong><a href="https://github.com/svvayyy/Muxtra">Muxtra</a></strong><br />A workspace for coding agents. It makes separate branches so agents stop stepping on each other's work.<br /><sub>Developer tools · TypeScript · Public beta</sub></td>
   </tr>
 </table>
 
