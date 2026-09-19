@@ -10,7 +10,7 @@ I like thoughtful interfaces, useful little details, software that respects your
 <table>
   <tr>
     <td width="82" align="center"><a href="https://github.com/svvayyy/ghostbeat"><img src="assets/ghost-beat.png" width="64" height="64" alt="Ghost Beat icon" /></a></td>
-    <td><strong><a href="https://github.com/svvayyy/ghostbeat">Ghost Beat</a></strong><br />A timing trainer for musicians. Build the internal clock, not just follow the click.<br /><sub>Music · iPhone · SwiftUI</sub></td>
+    <td><strong><a href="https://github.com/svvayyy/ghostbeat">Ghost Beat</a></strong><br />A timing trainer for musicians. Helps you improve your internal timing and practice better.<br /><sub>Music · iPhone · SwiftUI</sub></td>
   </tr>
   <tr>
     <td width="82" align="center"><a href="https://github.com/svvayyy/ClipTape"><img src="assets/cliptape.png" width="64" height="64" alt="ClipTape icon" /></a></td>
