@@ -1,7 +1,7 @@
 ## Hey, I’m Will 👋
 
 I build apps, make music, and follow the occasional “what if?” a little too far.
-Mostly **SwiftUI and TypeScript**. A lot of MacOS native apps, tools for musicians, and dev tools to make my workflow better
+I build with mostly **SwiftUI and TypeScript**. A lot of MacOS native apps (a lot), tools for musicians, and dev tools to make my workflow more efficient 
 
 I like thoughtful interfaces, useful little details, software that respects your privacy, and software that isn't annoying to use.
 
