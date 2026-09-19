@@ -1,9 +1,9 @@
 ## Hey, I’m Will 👋
 
 I build apps, make music, and follow the occasional “what if?” a little too far.
-Mostly **SwiftUI and TypeScript**—native apps, tools for musicians, and ways to make working with AI less chaotic.
+Mostly **SwiftUI and TypeScript**. A lot of MacOS native apps, tools for musicians, and dev tools to make my workflow better
 
-I like thoughtful interfaces, useful little details, and software that respects your privacy.
+I like thoughtful interfaces, useful little details, software that respects your privacy, and software that isn't annoying to use.
 
 ### Things I’m building
 
@@ -14,11 +14,11 @@ I like thoughtful interfaces, useful little details, and software that respects 
   </tr>
   <tr>
     <td width="82" align="center"><a href="https://github.com/svvayyy/ClipTape"><img src="assets/cliptape.png" width="64" height="64" alt="ClipTape icon" /></a></td>
-    <td><strong><a href="https://github.com/svvayyy/ClipTape">ClipTape</a></strong><br />A free, open-source macOS screen recorder. Record, save, done.<br /><sub>macOS · SwiftUI · On-device</sub></td>
+    <td><strong><a href="https://github.com/svvayyy/ClipTape">ClipTape</a></strong><br />A free, open-source macOS screen recorder that makes recording fast and not a whole "event." <br /><sub>macOS · SwiftUI · On-device</sub></td>
   </tr>
   <tr>
     <td width="82" align="center"><a href="https://github.com/svvayyy/Muxtra"><img src="assets/muxtra.png" width="64" height="64" alt="Muxtra icon" /></a></td>
-    <td><strong><a href="https://github.com/svvayyy/Muxtra">Muxtra</a></strong><br />A workspace for coding agents: separate branches, less stepping on each other’s work.<br /><sub>Developer tools · TypeScript · Public beta</sub></td>
+    <td><strong><a href="https://github.com/svvayyy/Muxtra">Muxtra</a></strong><br />A workspace for coding agents. It makes separate branches so agent stop stepping on each other's work.<br /><sub>Developer tools · TypeScript · Public beta</sub></td>
   </tr>
 </table>
 
@@ -28,4 +28,4 @@ Drums, music, and a growing collection of ideas that were supposed to be “smal
 
 ---
 
-<sub>Built with curiosity. Usually accompanied by a drum groove.</sub>
+<sub>Built with too much curiosity, like way too much.</sub>
